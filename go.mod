@@ -1,4 +1,4 @@
-module argon2
+module github.com/duggavo/argon2
 
 go 1.22
 
